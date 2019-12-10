@@ -1,0 +1,13 @@
+"d[Y/M/D]","t[H:I]","c[T3]","i[T1]","n[T50]","a[T10]","f[T10]","p[T10]","r[T10]","#[Z5]"
+d[Y/M/D],t[H:I],c[T3],i[T1],n[T50],a[T10],f[T10],p[T10],r[T10],#[Z5]
+"d[Y/M/D]","t[H:I]","c[T3]","i[T1]","n[T50]","a[T10]","f[T10]","p[T10]","r[T10]","#[Z5]","b[T2]","w[T2]"
+"d[Y/M/D]"\t"t[H:I]"\t"c[T3]"\t"i[T1]"\t"n[T50]"\t"a[T10]"\t"f[T10]"\t"p[T10]"\t"r[T10]"\t"#[Z5]"
+d[Y/M/D] t[H:I]   c[L3]   n[L50]  i[L12]    a[L10]  f[L10]  p[L10]  r[L10]  #[Z5]
+d[M/D/Y] t[H:I:S]   c[L3]   n[L50]  i[L12]    a[L10]  f[L10]  p[L10]  r[L10]  #[Z5]
+ffid=#[8.2]  n[R50]  i[C20]
+<event> <title>n[T60]</title> <country>c[T3]</country> <date><![CDATA[d[D-M-Y]]]></date> <time><![CDATA[t[th:Ia]]]></time> <impact><![CDATA[i[T20]]]></impact> <forecast><![CDATA[f[T20]]]></forecast> <previous><![CDATA[p[T20]]]></previous> </event>
+<event> <title>n[T60]</title> <country>c[T3]</country> <date><![CDATA[d[D-M-Y]]]></date> <time><![CDATA[t[th:Ia]]]></time> <impact><![CDATA[i[T20]]]></impact> <actual><![CDATA[a[T20]]]></actual> <forecast><![CDATA[f[T20]]]></forecast> <previous><![CDATA[p[T20]]]></previous> <revised_from><![CDATA[r[T20]]]></revised_from> </event>
+"d[M-D-Y]","t[th:Ia]","c[T3]","i[T12]","n[T50]","a[T10]","f[T10]","p[T10]","r[T10]","#[Z5]"
+"d[Y.M.D]","t[H:I]","c[T3]","i[T12]","n[T50]","a[T10]","f[T10]","p[T10]","r[T10]","#[Z5]"
+<event>\n\t<title>n[T60]</title>\n\t<country>c[T3]</country>\n\t<date><![CDATA[d[D-M-Y]]]></date>\n\t<time><![CDATA[t[th:Ia]]]></time>\n\t<impact><![CDATA[i[T20]]]></impact>\n\t<actual><![CDATA[a[T20]]]></actual>\n\t<forecast><![CDATA[f[T20]]]></forecast>\n\t<previous><![CDATA[p[T20]]]></previous>\n\t<revised_from><![CDATA[r[T20]]]></revised_from>\n</event>
+<event>\n\t<title>n[T60]</title>\n\t<country>c[T3]</country>\n\t<date>d[D-M-Y]</date>\n\t<time>t[th:Ia]</time>\n\t<impact>i[T20]</impact>\n\t<actual>a[T20]</actual>\n\t<forecast>f[T20]</forecast>\n\t<previous>p[T20]</previous>\n\t<revised_from>r[T20]</revised_from>\n</event>
