@@ -1,10 +1,17 @@
 # news_downloader_forexfactory
-Hanover's calendar scraper for forexfactory for historical reference.   These are all the original files and also any new releases to those files.
+Hanover's calendar scraper for forexfactory for historical reference.   These are all the original files from Plot News v4-15.zip" and also any new releases to those files will be uploaded here.
 
 ## Download: 
 
-just go to the "releases" page orcode page and press clone/zip
+just go to the "releases" page or code page and press clone/zip
 
+## Usage instructions
+
+See "Plot News v4 - operating instructions.pdf"
+
+most of the relevant files will be in the folder `\MQL4\Files`
+
+and also some user feedback in the [original FF thread](https://www.forexfactory.com/showthread.php?t=549773)
 
 ## Help / Bugs
 
