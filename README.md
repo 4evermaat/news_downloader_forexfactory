@@ -16,7 +16,9 @@ and also some user feedback in the [original FF thread](https://www.forexfactory
 
 ### archive / historical event data
 
-Historical news events from 2007 are already scraped and kept in a separate csv archive file, also available in "[releases](https://github.com/4evermaat/news_downloader_forexfactory/releases/)" section.  Default FF timezone is New York City timezone.  If the archive filename matches what is in the `news downloader.exe` settings, it will automatically append scraped data to the csv file.   So make sure you scrape backwards far enough to capture all the missing data to avoid gaps.
+Historical news events from 2007 are already scraped and kept in a separate csv archive file, also available in "[releases](https://github.com/4evermaat/news_downloader_forexfactory/releases/)" section.  Default FF timezone is New York City timezone.  
+
+If the archive filename matches what is in the `news downloader.exe` settings, it will automatically append scraped data to the csv file.   So make sure you scrape backwards far enough to capture all the missing/stale data to avoid gaps. 
 
 
 ## Help / Bugs
